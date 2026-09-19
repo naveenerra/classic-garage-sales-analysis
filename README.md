@@ -100,7 +100,7 @@ An interactive year slicer allows users to analyze different years.
 
 ## 📊 Dashboard Preview
 
-![Classic Garage Sales Dashboard](Classic_Garage_Dashboard.png)
+![Classic Garage Sales Dashboard](screenshots/Classic_Garage_Dashboard.png)
 
 ---
 
